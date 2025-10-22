@@ -1,20 +1,18 @@
-# Imran Khan | Personal Academic Website
+# 👋 Hi, I’m Imran Khan
 
-This repository contains the source files for my personal academic website: [https://engrik.github.io](https://engrik.github.io).
-
-The website presents my academic background, research interests, publications, and ongoing projects.  
-It is developed using the **Jekyll Chirpy theme** and hosted freely on **GitHub Pages**.
+🎓 **Transportation Engineer | Resilience Researcher | Bayesian Network Modeler**  
+📍 Currently based in Bangkok | 🌏 Focused on Transport Resilience & Climate Adaptation
 
 ---
 
-## 🧠 About Me
-I am **Imran Khan**, a Transportation Engineer and Researcher specializing in **resilience assessment of road transport systems**, **statistical modeling**, and **climate adaptation planning**.
+### 🔬 About Me
+I’m a transportation engineer specializing in **multidimensional resilience assessment** of road transport infrastructure, focusing on **Bayesian Network modeling**, **GIS-based network analysis**, and **climate adaptation planning**.  
 
-My master's thesis — *"Multidimensional Resilience Assessment of Road Transport Infrastructure Using a Resilience Matrix-Based Bayesian Network: A Case Study of Khyber Pakhtunkhwa, Pakistan"* — developed a data-conscious framework to quantify transport resilience across multiple dimensions and disaster phases.
+I completed my MSc in Transportation Engineering at the **Asian Institute of Technology (AIT)** under the **ADB–Japan Scholarship Program**, where my thesis developed a *Resilience Matrix–Based Bayesian Network* framework for evaluating transport resilience in **Khyber Pakhtunkhwa, Pakistan**.
 
 ---
 
-## 📘 Research Interests
+### 💡 Research Interests
 - Resilience and Sustainability of Transport Systems
 - Network Science and Optimization
 - Stochastic Modeling and Decision Analytics
@@ -23,36 +21,20 @@ My master's thesis — *"Multidimensional Resilience Assessment of Road Transpor
 
 ---
 
-## 🧩 Tools & Skills
-- **Modeling:** Regression Analysis, Machine Learning, Network Analysis, Geospatial Analysis, Bayesian Networks, MCDM, DiD, Optimization, MLE 
-- **Data Analysis:** Bayesian Inference, Sensitivity Analysis, Multivariate Indexing  
-- **Visualization:** GIS Mapping, Network Diagrams 
-- **Documentation:** LaTeX, Markdown, MS Office  
+### 🌐 Academic Website
+🔗 [**https://engrik.github.io**](https://engrik.github.io)  
+*A simple academic website showcasing my research, publications, and ongoing work.*
 
 ---
 
-## 📄 Website Structure
-| Folder | Description |
-|--------|--------------|
-| `_config.yml` | Website configuration (title, author info, social links) |
-| `_posts/` | Blog posts or research updates |
-| `_pages/` | Main pages (About, Publications, Projects, CV, Contact) |
-| `assets/` | Images, stylesheets, and icons |
-| `index.md` | Homepage content |
+### 📬 Contact
+- **Email:** imrankhan@example.com  
+- **LinkedIn:** [linkedin.com/in/imrankhan](https://linkedin.com/in/imrankhan)  
+- **Google Scholar:** [scholar.google.com/citations?user=XXXX](https://scholar.google.com)  
 
 ---
 
-## 🛠️ Technical Details
-- **Theme:** [Jekyll Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)  
-- **Hosting:** [GitHub Pages](https://pages.github.com/)  
-- **Language:** HTML, Markdown, YAML  
-- **License:** MIT License  
-
----
-
-## 🌐 Live Website
-You can view the live version here:  
-👉 [**https://engrik.github.io**](https://engrik.github.io)
+> “Building resilient transport systems for a changing climate.”
 
 ---
 
