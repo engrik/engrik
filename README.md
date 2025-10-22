@@ -39,4 +39,4 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 ---
 
 
-> © Imran Khan | This repository and its website contents are maintained for academic and research purposes.
+> © Imran Khan 2025
