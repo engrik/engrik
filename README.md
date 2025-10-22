@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Imran Khan
 
-🎓 **Transportation Engineer | Researcher | Resilience and Sustainability Enthusiast**  / **Civil Engineer**
+🎓 **Transportation Engineer | Researcher | Resilience and Sustainability Enthusiast**  | **Civil Engineer** |
 📍 Currently based in Bangkok 
 
 ---
