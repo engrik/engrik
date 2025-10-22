@@ -24,9 +24,9 @@ My master's thesis — *"Multidimensional Resilience Assessment of Road Transpor
 ---
 
 ## 🧩 Tools & Skills
-- **Modeling:** GeNIe, Python (NetworkX, OSMnx, Pandas), ArcGIS/QGIS  
+- **Modeling:** Regression Analysis, Machine Learning, Network Analysis, Geospatial Analysis, Bayesian Networks, MCDM, DiD, Optimization, MLE 
 - **Data Analysis:** Bayesian Inference, Sensitivity Analysis, Multivariate Indexing  
-- **Visualization:** GIS Mapping, Network Diagrams, Probabilistic Graphs  
+- **Visualization:** GIS Mapping, Network Diagrams 
 - **Documentation:** LaTeX, Markdown, MS Office  
 
 ---
@@ -57,9 +57,9 @@ You can view the live version here:
 ---
 
 ### 📬 Contact
-- **Email:** imrankhan@example.com  
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- **Google Scholar:** [scholar.google.com/citations?user=XXXX](https://scholar.google.com/)  
+- **Email:** imrankhan@ait.asia  
+- **LinkedIn:** [linkedin.com/in/your-link]()  
+- **Google Scholar:** [scholar.google.com/citations?user=XXXX]()  
 
 ---
 
