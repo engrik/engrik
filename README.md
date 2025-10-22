@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Imran Khan
+# 👋 Hi, I’m Imran Khan (Esapzai)
 
 🎓 **Transportation Engineer | Researcher | Resilience and Sustainability Enthusiast**  | **Civil Engineer** |
 📍 Currently based in Bangkok 
