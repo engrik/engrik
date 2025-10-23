@@ -28,7 +28,7 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 ---
 
 ### 📬 Contact
-- **Email:** imrankhan@ait.asia  
+- **Email:** studentrep@ait.asia  
 - **LinkedIn:** [linkedin.com/in/engrik](https://linkedin.com/in/engrik)  
 - **Google Scholar:** [scholar.google.com/citations?user=XXXX](https://scholar.google.com)  
 
